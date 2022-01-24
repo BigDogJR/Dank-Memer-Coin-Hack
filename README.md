@@ -39,10 +39,3 @@ How to use.
 **5.** Run the script with `python3 main.py`
 
 **6. Profit**
-
-## Support
-Dm me on Discord or join my [server](https://daddyissue.org)
-
-You can open an issue on Github as well
-
-
