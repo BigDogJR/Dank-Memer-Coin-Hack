@@ -6,8 +6,8 @@ from multiprocessing import Process
 
 #########################################
 
-channel_id = '844971106280800256'
-id = '813467131760082974'
+channel_id = 'Your Channal Id Here'
+id = 'Your Main Account id Here'
 
 #########################################
 
